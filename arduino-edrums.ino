@@ -1,10 +1,5 @@
-// built-in libraries are included between <> brackets
-#include <Control_Surface.h>
-
-// local libraries in quotes
-#include "CircularBuffer.h"
-
-// #define _DEBUG_SERIAL
+#include <Control_Surface.h> // built-in libraries are included between <> brackets
+#include "CircularBuffer.h"  // local libraries in quotes
 
 const uint8_t PIN_PIEZO = A0;
 
@@ -17,31 +12,27 @@ struct Hit {
   int vel;
 };
 
-// USBDebugMIDI_Interface midi;
 HardwareSerialMIDI_Interface midi { Serial1 };
 CircularBuffer<Hit, 10> hits;
 
+uint16_t sensorDataCur = 0;
+uint16_t sensorDataPrev = 0;
 
-uint32_t msLastHit = 0; /* the last time that we detected a new hit */
-bool prevSampleHit = false; /* whether or not the last sample from the sensor was above the threshold */
-bool toggle = false;
+uint32_t msLastHit = 0;       /* the last time that we detected a new hit */
+bool prevSampleHit = false;   /* whether or not the last sample from the sensor was above the threshold */
+
+uint8_t numHighSamples = 0;
 
 void setup() {
   pinMode(PIN_PIEZO, INPUT);
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(6, OUTPUT);
 
-#ifdef _DEBUG_SERIAL
-  Serial.begin(9600); 
-#endif
-
   Control_Surface.begin();
+  // Serial.begin(9600);
 }
 
 void loop() {
-  toggle = !toggle;
-  digitalWrite(6, toggle);
-
   checkSensorA0();
   checkNoteOffQueue();
 }
@@ -51,36 +42,33 @@ void loop() {
  * be sent in the future. */
 void checkSensorA0()
 {
-  uint16_t sensorData = analogRead(PIN_PIEZO); /* in range 0 to 1023 */
+  sensorDataCur = analogRead(PIN_PIEZO); /* in range 0 to 1023 */
   uint32_t now = millis();
+
+  if (sensorDataCur > THRESHOLD)
+    numHighSamples++;
+  else
+    numHighSamples = 0;
+
+  bool hitDetected =  now - msLastHit > MS_DEBOUNCE &&
+      (numHighSamples == 3 || (numHighSamples == 0 && sensorDataPrev > THRESHOLD));
+
+  if (hitDetected)
+  {
+    msLastHit = now;
+    uint16_t highSample = max(sensorDataPrev, sensorDataCur);
+    Hit newHit = { now, highSample / 8 };
+    
+    midi.sendNoteOn(toMIDIAddress(), newHit.vel);
+    digitalWrite(LED_BUILTIN, HIGH);
+    hits.put(newHit);
+  }
   
-  if (sensorData > THRESHOLD)
-  {
-#ifdef _DEBUG_SERIAL
-    Serial.print("min:0,max:1024,sensor:");
-    Serial.println(sensorData);
-#endif
-    if (!prevSampleHit && now - msLastHit > MS_DEBOUNCE)
-    {
-      // the threshold is being crossed
-      msLastHit = now;
-      Hit newHit = { now, min(127, sensorData) };
-      midi.sendNoteOn(toMIDIAddress(), newHit.vel);
-      digitalWrite(LED_BUILTIN, HIGH);
-      hits.put(newHit);
-    }
-  }
-#ifdef _DEBUG_SERIAL
-  else if (prevSampleHit)
-  {
-    Serial.println("min:0,max:1024,sensor:0");
-  }
-#endif
-  prevSampleHit = sensorData > THRESHOLD;
+  sensorDataPrev = sensorDataCur;
 }
 
 /* See if there is a pending NoteOff message due to be sent.
- * If there is, then dequeue it and send the NoteOff message */
+ * If there is, dequeue it and send the NoteOff message */
 void checkNoteOffQueue()
 {
   Hit hit;
