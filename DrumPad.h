@@ -14,7 +14,6 @@ private:
 
   /* MIDI info for this pad */
   MIDIAddress addr;
-  Channel channel;
 
   uint32_t msLastHit; /* the last time that we detected a new hit */
   uint8_t numHighSamples;
@@ -22,15 +21,15 @@ private:
   uint16_t sensorDataPrev;
 
 public:
-  DrumPad(uint8_t pin, Channel ch, MIDIAddress addr);
+  DrumPad(uint8_t pin, uint8_t midiNoteNum, uint8_t channelNum);
   bool readSensor(Hit* valPtr);
 };
 
 /* DrumPad constructor */
-DrumPad::DrumPad(uint8_t pin, Channel ch, MIDIAddress addr)
-  : addr(addr), channel(ch) {
+DrumPad::DrumPad(uint8_t pin, uint8_t midiNoteNum, uint8_t channelNum)
+  : addr(midiNoteNum, Channel::createChannel(channelNum))
+{
   piezoPin = pin;
-
   msLastHit = 0;
   numHighSamples = 0;
   sensorDataCur = 0;

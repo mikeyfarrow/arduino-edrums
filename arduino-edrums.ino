@@ -3,17 +3,19 @@
 #include "Hit.h" 
 #include "DrumPad.h"
 
+#define MIDI_DRUM_CH 10
+
+// USBDebugMIDI_Interface midi;
 HardwareSerialMIDI_Interface midi { Serial1 };
 CircularBuffer<Hit, 10> hits;
 
 DrumPad pads[] = {
-    /* GPIO     MIDI ch       MIDI address    */
-    {   A0,     Channel_1,    MIDI_Notes::C[2] },
-    {   A1,     Channel_1,    MIDI_Notes::D[2] }
+    /* GPIO     MIDI note num        MIDI ch num    */
+    {   A0,     36,                  MIDI_DRUM_CH },
+    {   A1,     37,                  MIDI_DRUM_CH }
 };
 
 void setup() {
-
   // set all the piezo pins as inputs
   for (DrumPad &pad : pads) {
     pinMode(pad.piezoPin, INPUT);
@@ -23,7 +25,6 @@ void setup() {
   pinMode(6, OUTPUT);
 
   Control_Surface.begin();
-  Serial.begin(9600);
 }
 
 void loop() {
@@ -31,9 +32,8 @@ void loop() {
     Hit hit;
     if (pad.readSensor(&hit))
     {
-      Serial.print("Hit on pad ");
-      Serial.println(pad.piezoPin);
-      
+      // Serial.print("Hit on pad ");
+      // Serial.println(pad.piezoPin);
       midi.sendNoteOn(hit.address, hit.vel);
       digitalWrite(LED_BUILTIN, HIGH);
       hits.put(hit);
