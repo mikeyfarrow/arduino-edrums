@@ -6,13 +6,15 @@
 #define MIDI_DRUM_CH 10
 
 // USBDebugMIDI_Interface midi;
-HardwareSerialMIDI_Interface midi { Serial1 };
+HardwareSerialMIDI_Interface midi { Serial1 }; /* i.e. TX1 pin (aka 18)*/
 CircularBuffer<Hit, 10> hits;
 
 DrumPad pads[] = {
     /* GPIO     MIDI note num        MIDI ch num    */
     {   A0,     36,                  MIDI_DRUM_CH },
-    {   A1,     37,                  MIDI_DRUM_CH }
+    {   A1,     37,                  MIDI_DRUM_CH },
+    {   A2,     38,                  MIDI_DRUM_CH },
+    {   A3,     39,                  MIDI_DRUM_CH }
 };
 
 void setup() {
@@ -22,7 +24,6 @@ void setup() {
   }
 
   pinMode(LED_BUILTIN, OUTPUT);
-  pinMode(6, OUTPUT);
 
   Control_Surface.begin();
 }
