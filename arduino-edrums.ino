@@ -13,6 +13,9 @@ struct Hit {
 };
 
 HardwareSerialMIDI_Interface midi { Serial1 };
+
+// Create a queue of "hits" whose NoteOn messages have been sent but whose corresponding 
+// NoteOff messages are still pending because the gate length has not yet elapsed
 CircularBuffer<Hit, 10> hits;
 
 uint16_t sensorDataCur = 0;
@@ -29,7 +32,6 @@ void setup() {
   pinMode(6, OUTPUT);
 
   Control_Surface.begin();
-  // Serial.begin(9600);
 }
 
 void loop() {
@@ -50,6 +52,19 @@ void checkSensorA0()
   else
     numHighSamples = 0;
 
+  // To accurately measure the "velocity" of a percussive strike against the piezo sensor
+  // it does not work simply to use the first sample that crosses the threshold.
+  // 
+  // Instead we wait for 3 consecutive samples that are above the threshold and use the 
+  // maximum of these samples to estime the velocity of the strike.
+  //
+  // We also must account for very soft strikes which only cross the threshold for 1-2
+  // samples (i.e. we don't want to ignore these soft hits).
+  // 
+  // Therefore a hit is detected when both conditions are met:
+  //      1. either this is the third consecutive sample that has been above THRESHOLD or
+  //         this sample is below THRESHOLD and the previous sample was above THRESHOLD
+  //      2. it has been more than MS_DEBOUNCE millis since the last hit was detected
   bool hitDetected =  now - msLastHit > MS_DEBOUNCE &&
       (numHighSamples == 3 || (numHighSamples == 0 && sensorDataPrev > THRESHOLD));
 
@@ -57,10 +72,13 @@ void checkSensorA0()
   {
     msLastHit = now;
     uint16_t highSample = max(sensorDataPrev, sensorDataCur);
-    Hit newHit = { now, highSample / 8 };
+    Hit newHit = { now, highSample / 8 }; /* now in range 0 to 127 */
     
     midi.sendNoteOn(toMIDIAddress(), newHit.vel);
     digitalWrite(LED_BUILTIN, HIGH);
+
+    // add this hit to the CircularBuffer so that we can send the corresponding NoteOff
+    // whenever the appropriate amount of time has passed. 
     hits.put(newHit);
   }
   
