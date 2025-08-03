@@ -3325,58 +3325,46 @@
 		)
 	)
 	(junction
-		(at 71.12 88.9)
+		(at 39.37 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "00e6e959-ba5d-4413-88bd-ba6288dfeb3b")
+		(uuid "00769108-c9b5-4185-b157-10e52e8c6b49")
 	)
 	(junction
-		(at 31.75 55.88)
+		(at 54.61 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0891ff7c-24a3-4771-b060-ff4824d88fec")
+		(uuid "10afff37-a40e-482d-a415-f23fab9c2abe")
 	)
 	(junction
-		(at 66.04 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0956569f-c051-4039-9469-1aadc9c96c48")
-	)
-	(junction
-		(at 60.96 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "103e70d9-db23-464f-9e5f-e4532ce61633")
-	)
-	(junction
-		(at 31.75 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e6a495d-c144-40a8-a2dd-72260a086731")
-	)
-	(junction
-		(at 49.53 55.88)
+		(at 54.61 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22cd80af-38f2-4780-834f-625b90b01ca6")
 	)
 	(junction
-		(at 60.96 99.06)
+		(at 64.77 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "29e7d7b0-82de-40a1-9ad1-0ceab3e152ec")
+		(uuid "3d8a8b2b-a218-47f2-acf8-bfa991efd65f")
 	)
 	(junction
-		(at 49.53 99.06)
+		(at 64.77 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2ac1538d-e319-4bd7-9c5d-161ae368178d")
+		(uuid "438f24cb-b7db-4173-975c-c06d2564dddc")
 	)
 	(junction
-		(at 71.12 45.72)
+		(at 72.39 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "38cd921a-6069-4860-93fd-158a56efb29f")
+		(uuid "45968a6d-3424-4196-b4ff-4aaab7cbe402")
+	)
+	(junction
+		(at 64.77 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4cad9ca1-675d-4d1d-a110-3434e81819ad")
 	)
 	(junction
 		(at 107.95 140.97)
@@ -3385,40 +3373,40 @@
 		(uuid "50db4cee-d0df-4768-a409-b673b151a21c")
 	)
 	(junction
-		(at 60.96 88.9)
+		(at 72.39 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5208c1d5-a705-40d1-a790-bf4a363833b5")
+		(uuid "5360bf14-e141-4c01-b4b4-e33693b8cc78")
 	)
 	(junction
-		(at 60.96 45.72)
+		(at 72.39 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "80f7bb1f-bae7-4a6e-bc8e-2acfeb52f465")
+		(uuid "544b72fb-2f3c-4b4a-9d19-3c10a61f0689")
 	)
 	(junction
-		(at 66.04 45.72)
+		(at 64.77 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8224533f-ac18-4d4b-a7ca-9db58d0afa5f")
+		(uuid "72a673dc-1d38-4ab3-8f50-cc93c792c88f")
 	)
 	(junction
-		(at 49.53 120.65)
+		(at 64.77 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "88fd5f3d-cac7-4124-a618-7723d1d9cb5f")
+		(uuid "7f805309-2be0-4772-87ba-e2b3c5ef3487")
 	)
 	(junction
-		(at 66.04 88.9)
+		(at 64.77 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "97d7c0dc-b4d9-4c7d-9106-83c1030d192f")
+		(uuid "90727a1f-5561-4356-b151-c7c88484d9a3")
 	)
 	(junction
-		(at 60.96 55.88)
+		(at 64.77 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a0cee23e-cfd1-4497-af59-4f708f1ae14b")
+		(uuid "a65ff040-b60d-48ce-b396-615c8dda4d56")
 	)
 	(junction
 		(at 106.68 123.19)
@@ -3439,58 +3427,46 @@
 		(uuid "ac00dc31-327e-4489-9db4-063ec28609e6")
 	)
 	(junction
-		(at 31.75 120.65)
+		(at 39.37 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b2133b4c-2873-4363-a712-608f826c9be1")
+		(uuid "baea8dbd-0d5c-47ab-b480-013c60feeace")
 	)
 	(junction
-		(at 66.04 110.49)
+		(at 39.37 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c018eb80-552e-445b-8076-7b2f19504d8a")
+		(uuid "bf49c717-02e4-4f70-a70d-1fdac916cd74")
 	)
 	(junction
-		(at 60.96 77.47)
+		(at 64.77 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ca05699a-d500-4fdd-af89-389e6a4b4708")
+		(uuid "c43f4be4-a4a0-4cfa-a793-7fd311608595")
 	)
 	(junction
-		(at 71.12 67.31)
+		(at 39.37 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cec04372-c22c-46ed-b0f3-dc8bf534e315")
+		(uuid "d4c7a902-9796-4d61-8bab-cd0e23834f06")
 	)
 	(junction
-		(at 60.96 110.49)
+		(at 72.39 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d57b08ab-0fe2-437e-a2be-2a5a657b3626")
+		(uuid "d6ec57a3-e009-41e7-afa7-5a4c2897f0ef")
 	)
 	(junction
-		(at 71.12 110.49)
+		(at 54.61 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d81f74bf-b10f-417e-9414-35a051dd4a02")
+		(uuid "e28e3525-8e3b-4ec5-84e1-1573bbe7229e")
 	)
 	(junction
-		(at 31.75 77.47)
+		(at 54.61 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e545db6a-8ca7-42f9-a096-c290932c8ac9")
-	)
-	(junction
-		(at 60.96 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb863459-a274-44f7-8c26-df8dc51f9afe")
-	)
-	(junction
-		(at 49.53 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f512cdec-6c29-43f6-b43f-65309b1fc03e")
+		(uuid "e558078b-3a8d-4004-8121-f71cc8f6d198")
 	)
 	(junction
 		(at 107.95 138.43)
@@ -3499,56 +3475,56 @@
 		(uuid "f6aa61fd-6d39-4528-9bc5-cb4e853cd4ff")
 	)
 	(no_connect
-		(at 95.25 29.21)
+		(at 95.25 24.13)
 		(uuid "5658bc24-eb5c-4d77-8425-3aae1bf1c2b0")
 	)
 	(no_connect
-		(at 80.01 29.21)
+		(at 80.01 24.13)
 		(uuid "91d567c9-2f05-4fab-b8e4-cb7b6d404c43")
 	)
 	(wire
 		(pts
-			(xy 60.96 110.49) (xy 66.04 110.49)
+			(xy 64.77 96.52) (xy 72.39 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "021c0a8e-5cb1-4a13-9fc6-a3e0593783e8")
+		(uuid "00346b83-816e-47b5-a742-ff2b5b471e24")
 	)
 	(wire
 		(pts
-			(xy 49.53 99.06) (xy 49.53 97.79)
+			(xy 39.37 86.36) (xy 46.99 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0afe9932-b88c-4b7b-a8b8-27105ae6528c")
+		(uuid "03c2ffb8-081a-4936-a269-8a2e229c9370")
 	)
 	(wire
 		(pts
-			(xy 60.96 67.31) (xy 66.04 67.31)
+			(xy 54.61 86.36) (xy 64.77 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0c03ba54-e5ba-4799-85be-59d77faa36ae")
+		(uuid "057a5a8b-95ae-4621-9814-a51accd7244c")
 	)
 	(wire
 		(pts
-			(xy 60.96 99.06) (xy 60.96 97.79)
+			(xy 72.39 96.52) (xy 72.39 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0db5a163-756b-4822-9d0a-b76b83719852")
+		(uuid "0bf7ff5b-f65f-4761-9319-13845aceb578")
 	)
 	(wire
 		(pts
-			(xy 71.12 110.49) (xy 95.25 110.49)
+			(xy 72.39 106.68) (xy 96.52 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3568,37 +3544,17 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 68.58) (xy 49.53 67.31)
+			(xy 64.77 106.68) (xy 64.77 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f6f55c4-c4d9-4fea-86d3-8bd9ba407cd3")
+		(uuid "1697f875-2f1a-4443-82a2-9275a826896f")
 	)
 	(wire
 		(pts
-			(xy 60.96 111.76) (xy 60.96 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14e8e8b8-9bca-424e-a1a1-d9bca37bad32")
-	)
-	(wire
-		(pts
-			(xy 31.75 55.88) (xy 49.53 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19190877-d83c-4e1a-be0c-106449578684")
-	)
-	(wire
-		(pts
-			(xy 49.53 55.88) (xy 49.53 54.61)
+			(xy 54.61 58.42) (xy 54.61 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3608,13 +3564,33 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 106.68) (xy 66.04 110.49)
+			(xy 54.61 107.95) (xy 54.61 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "22d135a6-4f14-4403-9543-5bab4e14c1da")
+		(uuid "1e5ae16f-b583-44fa-ab9b-47ea3ec43802")
+	)
+	(wire
+		(pts
+			(xy 64.77 67.31) (xy 64.77 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22ad2a4f-db79-46f7-9582-517dfd7a5e39")
+	)
+	(wire
+		(pts
+			(xy 54.61 116.84) (xy 54.61 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2458a8cb-1cb2-4a10-a16e-cdfa6221c896")
 	)
 	(wire
 		(pts
@@ -3628,16 +3604,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 67.31) (xy 41.91 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25f9740d-7832-4dd5-b817-047e8cdc919a")
-	)
-	(wire
-		(pts
 			(xy 107.95 130.81) (xy 107.95 133.35)
 		)
 		(stroke
@@ -3648,27 +3614,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 110.49) (xy 60.96 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29f3b34e-4282-4fb4-bb75-4cb3b1b5d6af")
-	)
-	(wire
-		(pts
-			(xy 66.04 88.9) (xy 71.12 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a233ed3-484f-4663-b95b-d6830d051822")
-	)
-	(wire
-		(pts
-			(xy 109.22 64.77) (xy 91.44 64.77)
+			(xy 109.22 64.77) (xy 96.52 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3678,7 +3624,17 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 31.75) (xy 72.39 31.75)
+			(xy 64.77 115.57) (xy 64.77 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d795283-9d7f-40fb-bdfb-f4e78774aa9c")
+	)
+	(wire
+		(pts
+			(xy 71.12 26.67) (xy 72.39 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3688,7 +3644,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 110.49) (xy 95.25 72.39)
+			(xy 96.52 106.68) (xy 96.52 72.39)
 		)
 		(stroke
 			(width 0)
@@ -3708,17 +3664,37 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 67.31) (xy 109.22 67.31)
+			(xy 64.77 95.25) (xy 64.77 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3864e52e-46e7-4bc9-9f14-bf0ec66dc35e")
+		(uuid "39bafc24-7f32-4d23-8f58-46ab7e77b815")
 	)
 	(wire
 		(pts
-			(xy 91.44 88.9) (xy 71.12 88.9)
+			(xy 54.61 67.31) (xy 64.77 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d97a5e1-2d4f-4fdb-843c-5e7ba3cb96d7")
+	)
+	(wire
+		(pts
+			(xy 64.77 82.55) (xy 64.77 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2ff28d-a9eb-4069-ba0d-355b3143123b")
+	)
+	(wire
+		(pts
+			(xy 92.71 86.36) (xy 72.39 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3728,37 +3704,27 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 67.31) (xy 71.12 68.58)
+			(xy 64.77 106.68) (xy 72.39 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "427ec822-aefb-4fc6-9e1a-cb4a95649c02")
+		(uuid "41a04172-8fdb-4de7-a23a-d972fe0815ee")
 	)
 	(wire
 		(pts
-			(xy 31.75 110.49) (xy 41.91 110.49)
+			(xy 46.99 72.39) (xy 50.8 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "42da43f4-9717-4d4f-8338-79d86d12e288")
+		(uuid "4509cbad-cc71-451e-8516-ee23ffa1ecb1")
 	)
 	(wire
 		(pts
-			(xy 31.75 55.88) (xy 31.75 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4425e6ec-b7fa-4031-a7e0-42975a0b58a5")
-	)
-	(wire
-		(pts
-			(xy 66.04 67.31) (xy 71.12 67.31)
+			(xy 72.39 67.31) (xy 109.22 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3768,17 +3734,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 110.49) (xy 71.12 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "477685c4-8a55-4cda-8a5d-ac8a0188b126")
-	)
-	(wire
-		(pts
-			(xy 66.04 41.91) (xy 66.04 45.72)
+			(xy 64.77 44.45) (xy 64.77 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3798,13 +3754,23 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 46.99) (xy 60.96 45.72)
+			(xy 72.39 49.53) (xy 72.39 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "496383d3-755f-49db-8303-e3f52c916bb5")
+	)
+	(wire
+		(pts
+			(xy 64.77 86.36) (xy 72.39 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4964d43b-0524-4200-9cb4-991e9876bc38")
 	)
 	(wire
 		(pts
@@ -3818,43 +3784,103 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 41.91) (xy 58.42 41.91)
+			(xy 39.37 96.52) (xy 54.61 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4dbb965d-9c39-44cc-94fb-5d6d82cbd870")
+		(uuid "49f2b19d-f3ef-49cf-ae51-2cc399facc31")
 	)
 	(wire
 		(pts
-			(xy 49.53 120.65) (xy 60.96 120.65)
+			(xy 64.77 102.87) (xy 64.77 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4fe6cdbb-8928-4b5a-ac9c-c4cb002f9d73")
+		(uuid "4b27debf-a175-4233-8b4c-792315f765b9")
 	)
 	(wire
 		(pts
-			(xy 60.96 55.88) (xy 71.12 55.88)
+			(xy 46.99 67.31) (xy 46.99 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "53a618cb-8bc3-4d0c-9224-34c885628bbe")
+		(uuid "4eccaa56-2a63-4d2f-b63a-d1e34052552c")
 	)
 	(wire
 		(pts
-			(xy 31.75 77.47) (xy 49.53 77.47)
+			(xy 39.37 58.42) (xy 54.61 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "55b337ac-58d4-4484-8184-6ffcb39ecce5")
+		(uuid "5073e7e0-a40f-464b-ad6f-0344093eb905")
+	)
+	(wire
+		(pts
+			(xy 54.61 106.68) (xy 64.77 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5290b11f-276f-4108-9f2f-33f411fec5ef")
+	)
+	(wire
+		(pts
+			(xy 64.77 77.47) (xy 72.39 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54e140a6-0468-4246-9656-20e7d5df7074")
+	)
+	(wire
+		(pts
+			(xy 46.99 86.36) (xy 46.99 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "561f2d47-c745-4d5a-b106-bf6f6dd259ba")
+	)
+	(wire
+		(pts
+			(xy 64.77 48.26) (xy 64.77 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56d2e77c-7a3b-4687-9bb6-f10fbe7f322e")
+	)
+	(wire
+		(pts
+			(xy 72.39 116.84) (xy 72.39 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "574f488c-b0dd-4672-a67a-b8451f193d66")
+	)
+	(wire
+		(pts
+			(xy 72.39 87.63) (xy 72.39 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57bae33d-11a3-49ac-b745-2fdc88709853")
 	)
 	(wire
 		(pts
@@ -3878,83 +3904,93 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 99.06) (xy 71.12 99.06)
+			(xy 72.39 68.58) (xy 72.39 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6df05406-b8dc-49e2-836d-86cd637008e2")
+		(uuid "6d6d5a7d-c3e6-4087-b8b0-cb00e5ece784")
 	)
 	(wire
 		(pts
-			(xy 66.04 63.5) (xy 66.04 67.31)
+			(xy 64.77 76.2) (xy 64.77 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6f26a596-162f-48b5-8e4d-6044ee79b603")
+		(uuid "704ae8fe-7023-405e-87e0-5cc973eb1449")
 	)
 	(wire
 		(pts
-			(xy 49.53 67.31) (xy 60.96 67.31)
+			(xy 95.25 29.21) (xy 95.25 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7332ef94-ee1b-4c6f-b756-35f22d140f33")
+		(uuid "75984ffe-e91f-4fdb-9381-fe32368fb942")
 	)
 	(wire
 		(pts
-			(xy 31.75 99.06) (xy 31.75 100.33)
+			(xy 64.77 63.5) (xy 64.77 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74c4841d-7b16-483f-a226-ead6467a7cdb")
+		(uuid "7aceede6-b37b-44ef-ae42-8237f6cd5621")
 	)
 	(wire
 		(pts
-			(xy 49.53 77.47) (xy 60.96 77.47)
+			(xy 95.25 36.83) (xy 95.25 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7fac7b32-c25e-48c2-a5dd-36e455ca9466")
+		(uuid "7d24df39-0afe-4e0d-8487-99b5adff3cad")
 	)
 	(wire
 		(pts
-			(xy 66.04 45.72) (xy 71.12 45.72)
+			(xy 54.61 96.52) (xy 64.77 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "81b69db7-0b5a-4639-b818-5762712485d2")
+		(uuid "8170ac15-6e07-404f-b9ea-949baa1c1ce6")
 	)
 	(wire
 		(pts
-			(xy 109.22 69.85) (xy 91.44 69.85)
+			(xy 54.61 77.47) (xy 54.61 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81ae3f71-b07e-4ce0-a0e7-ce89f0503b54")
+	)
+	(wire
+		(pts
+			(xy 64.77 48.26) (xy 72.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83ca6c10-94f9-42a1-984a-9d50ad194a6b")
+	)
+	(wire
+		(pts
+			(xy 109.22 69.85) (xy 92.71 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "84e3266c-12c2-4398-88ea-c41424c41fcb")
-	)
-	(wire
-		(pts
-			(xy 95.25 39.37) (xy 109.22 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85c9fed5-76b6-4690-b8da-bbc3a7c779ff")
 	)
 	(wire
 		(pts
@@ -3968,37 +4004,17 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 45.72) (xy 71.12 46.99)
+			(xy 64.77 57.15) (xy 64.77 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8fafe0f1-899b-4e49-b464-93ff7aa95204")
+		(uuid "9024b1fb-39f4-4108-97a5-e67854b87623")
 	)
 	(wire
 		(pts
-			(xy 49.53 111.76) (xy 49.53 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "917153a3-7ec0-4e84-a7fb-85b92de24cb6")
-	)
-	(wire
-		(pts
-			(xy 66.04 85.09) (xy 66.04 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91d2f201-b4d9-4464-845f-365f431ad17f")
-	)
-	(wire
-		(pts
-			(xy 60.96 55.88) (xy 60.96 54.61)
+			(xy 72.39 58.42) (xy 72.39 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4008,43 +4024,13 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 120.65) (xy 31.75 121.92)
+			(xy 46.99 106.68) (xy 46.99 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "94eafdf6-4b77-4904-b052-f3e787ac89b9")
-	)
-	(wire
-		(pts
-			(xy 60.96 120.65) (xy 71.12 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bf7e779-da46-41df-9ad3-471727859de9")
-	)
-	(wire
-		(pts
-			(xy 49.53 90.17) (xy 49.53 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c7dcdfc-a8b0-487d-b034-b72d087f1374")
-	)
-	(wire
-		(pts
-			(xy 60.96 88.9) (xy 66.04 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ccd64cd-10cc-47ea-8d5c-60c0714c4404")
+		(uuid "9536c2d2-78ea-40b5-ab57-7b1817aeb0ce")
 	)
 	(wire
 		(pts
@@ -4058,17 +4044,17 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 120.65) (xy 60.96 119.38)
+			(xy 54.61 68.58) (xy 54.61 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9e5f95f4-33b0-4b29-950a-6fe9d8f75067")
+		(uuid "9e264f5d-12b1-468b-a113-b9825e5c5aaa")
 	)
 	(wire
 		(pts
-			(xy 41.91 50.8) (xy 45.72 50.8)
+			(xy 46.99 53.34) (xy 50.8 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4078,33 +4064,33 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 77.47) (xy 31.75 78.74)
+			(xy 54.61 116.84) (xy 64.77 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9ee653cf-b104-4c7e-84de-c596a831841e")
+		(uuid "9fa766cc-3980-487f-b43c-eca7b9fce027")
 	)
 	(wire
 		(pts
-			(xy 31.75 88.9) (xy 41.91 88.9)
+			(xy 64.77 86.36) (xy 64.77 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9feae688-015e-4963-8810-150c1a045a90")
+		(uuid "a3909de4-751e-4522-ad10-e946d67ef40c")
 	)
 	(wire
 		(pts
-			(xy 60.96 90.17) (xy 60.96 88.9)
+			(xy 54.61 87.63) (xy 54.61 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9fec01ef-69ae-4086-91df-59d8e8ab89e0")
+		(uuid "a42e2b0e-0578-4213-af85-b7eb647ec849")
 	)
 	(wire
 		(pts
@@ -4118,13 +4104,13 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 120.65) (xy 49.53 119.38)
+			(xy 72.39 48.26) (xy 96.52 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7f1f06c-d38a-4a87-b544-6fd6c65c5016")
+		(uuid "a8216a6b-2b81-48c8-818e-a2e881c74f07")
 	)
 	(wire
 		(pts
@@ -4138,47 +4124,27 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 55.88) (xy 71.12 54.61)
+			(xy 95.25 39.37) (xy 109.22 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aad38f92-4e29-41b5-a776-c44c09b3029b")
+		(uuid "a8f41069-fa34-401f-8212-27b235fe7070")
 	)
 	(wire
 		(pts
-			(xy 31.75 99.06) (xy 49.53 99.06)
+			(xy 64.77 58.42) (xy 72.39 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aadc4920-1909-4941-9d67-d6abe5b78f69")
+		(uuid "aa4376de-8025-4fb7-81d6-be8f3706ad76")
 	)
 	(wire
 		(pts
-			(xy 55.88 63.5) (xy 58.42 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab8d2081-5063-4e3c-b631-8449155a2ceb")
-	)
-	(wire
-		(pts
-			(xy 71.12 88.9) (xy 71.12 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac9d366b-5b59-49eb-aaa0-c3f27c3d10de")
-	)
-	(wire
-		(pts
-			(xy 31.75 45.72) (xy 41.91 45.72)
+			(xy 39.37 48.26) (xy 46.99 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4188,23 +4154,23 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 115.57) (xy 45.72 115.57)
+			(xy 39.37 77.47) (xy 54.61 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "adc32cae-5c22-4e9c-8128-43b29e90d364")
+		(uuid "ad0378cb-458b-4349-b1d8-8f7b1b940dec")
 	)
 	(wire
 		(pts
-			(xy 49.53 99.06) (xy 60.96 99.06)
+			(xy 54.61 96.52) (xy 54.61 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b0604f1f-0b03-4ca0-b618-515ba258a271")
+		(uuid "b077426a-479c-4792-b351-b18ae4ba36ff")
 	)
 	(wire
 		(pts
@@ -4218,37 +4184,47 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 85.09) (xy 58.42 85.09)
+			(xy 64.77 116.84) (xy 72.39 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b37c8263-a3a0-4020-9985-c520c31d7e69")
+		(uuid "b374d011-21ff-4617-809a-ad1a675f2127")
 	)
 	(wire
 		(pts
-			(xy 71.12 45.72) (xy 91.44 45.72)
+			(xy 72.39 107.95) (xy 72.39 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b44bb71f-6bab-41f6-9cb1-db8897a886a8")
+		(uuid "b673745d-8579-4d9b-91c7-12e4003a9739")
 	)
 	(wire
 		(pts
-			(xy 41.91 93.98) (xy 45.72 93.98)
+			(xy 64.77 67.31) (xy 72.39 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b5cfedb4-4444-4da9-b1de-cb867110c284")
+		(uuid "ba44cc1f-2f7e-476d-9a70-e71e0b6c41b2")
 	)
 	(wire
 		(pts
-			(xy 91.44 69.85) (xy 91.44 88.9)
+			(xy 46.99 111.76) (xy 50.8 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba67c942-8be6-42da-ac2d-e6e16c55d8ca")
+	)
+	(wire
+		(pts
+			(xy 92.71 69.85) (xy 92.71 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4258,13 +4234,23 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 45.72) (xy 60.96 45.72)
+			(xy 54.61 48.26) (xy 64.77 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bf0b4506-7d89-453e-8b2b-21b161cdf27a")
+	)
+	(wire
+		(pts
+			(xy 72.39 77.47) (xy 72.39 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf4fb14c-7631-4a7a-9c5f-31b540af5dfa")
 	)
 	(wire
 		(pts
@@ -4278,27 +4264,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 77.47) (xy 71.12 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0656195-711e-4608-b8c9-5638c75458ba")
-	)
-	(wire
-		(pts
-			(xy 71.12 110.49) (xy 71.12 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c399e4d7-7c37-473c-bb7b-4ea6f460f22a")
-	)
-	(wire
-		(pts
-			(xy 49.53 55.88) (xy 60.96 55.88)
+			(xy 54.61 58.42) (xy 64.77 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4308,17 +4274,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 120.65) (xy 71.12 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5a0d88e-6eb4-42cd-ba7e-be858b3023af")
-	)
-	(wire
-		(pts
-			(xy 91.44 64.77) (xy 91.44 45.72)
+			(xy 96.52 64.77) (xy 96.52 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4328,33 +4284,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 45.72) (xy 66.04 45.72)
+			(xy 39.37 116.84) (xy 54.61 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "caf631e5-c9a6-4623-acb1-b22102717b07")
-	)
-	(wire
-		(pts
-			(xy 41.91 72.39) (xy 45.72 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cba72676-48bc-4a38-8a0c-7f807f1246e5")
-	)
-	(wire
-		(pts
-			(xy 71.12 99.06) (xy 71.12 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d12c41a6-03b6-4856-8e41-0b0fdbbf1b88")
+		(uuid "d04e2a33-d012-4fcf-9552-0cb077a2e106")
 	)
 	(wire
 		(pts
@@ -4368,87 +4304,17 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 88.9) (xy 60.96 88.9)
+			(xy 46.99 91.44) (xy 50.8 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2408231-8cc7-41bb-ae0d-77d811bcb71d")
+		(uuid "de6e2bfd-6e05-41d1-be29-c7c749df2320")
 	)
 	(wire
 		(pts
-			(xy 60.96 68.58) (xy 60.96 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5855a7b-8a73-4f0d-b4ea-4bd1deb7e157")
-	)
-	(wire
-		(pts
-			(xy 41.91 88.9) (xy 41.91 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db03c2e4-1c78-4fbb-910a-9969edef40b7")
-	)
-	(wire
-		(pts
-			(xy 41.91 110.49) (xy 41.91 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de603cb4-df0e-4a1a-9362-d4e9756591a6")
-	)
-	(wire
-		(pts
-			(xy 31.75 120.65) (xy 49.53 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfd391af-7cec-4119-88d6-0c6d35b6bbc2")
-	)
-	(wire
-		(pts
-			(xy 60.96 77.47) (xy 60.96 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1a8be70-e872-4981-a959-cc4b76d144d2")
-	)
-	(wire
-		(pts
-			(xy 60.96 77.47) (xy 71.12 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6dd118e-69f4-4f7a-b1d6-f9634acc4cb4")
-	)
-	(wire
-		(pts
-			(xy 49.53 77.47) (xy 49.53 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb781482-2b23-4749-b12b-931f8b80c3a2")
-	)
-	(wire
-		(pts
-			(xy 95.25 72.39) (xy 109.22 72.39)
+			(xy 96.52 72.39) (xy 109.22 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4458,17 +4324,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 106.68) (xy 58.42 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef5eb3a2-e06b-444d-ad85-ddf64566de04")
-	)
-	(wire
-		(pts
-			(xy 41.91 45.72) (xy 41.91 50.8)
+			(xy 46.99 48.26) (xy 46.99 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4488,7 +4344,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 46.99) (xy 49.53 45.72)
+			(xy 54.61 49.53) (xy 54.61 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4498,44 +4354,62 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 67.31) (xy 41.91 67.31)
+			(xy 54.61 77.47) (xy 64.77 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f8891aac-1744-43d3-9cf5-06bf0f304925")
+		(uuid "f533f10a-aec0-4076-9a16-78173eaac732")
+	)
+	(wire
+		(pts
+			(xy 39.37 67.31) (xy 46.99 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f73f69c0-a5c5-4537-b826-d6feae4691f6")
+	)
+	(wire
+		(pts
+			(xy 39.37 106.68) (xy 46.99 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fccaf03a-6a36-49a4-8139-84b7d150f9b3")
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 49.53 72.39 180)
+		(lib_id "Device:D")
+		(at 68.58 102.87 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00037403-a8f3-459c-90bf-dd2a2b10661e")
-		(property "Reference" "RV2"
-			(at 52.07 71.1199 0)
+		(uuid "0deb13cc-81a2-42ba-97ab-513865bb544a")
+		(property "Reference" "D8"
+			(at 68.58 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "trim"
-			(at 52.07 73.6599 0)
+		(property "Value" "D"
+			(at 68.58 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 72.39 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4544,7 +4418,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 72.39 0)
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4552,93 +4426,43 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer"
-			(at 49.53 72.39 0)
+		(property "Description" "Diode"
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(property "Sim.Device" "D"
+			(at 68.58 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 68.58 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b20f5219-f28a-4874-9996-a39018b0ad14")
 		)
 		(pin "2"
-			(uuid "75877674-04fa-4fc6-a038-cd90e38d7291")
-		)
-		(pin "3"
-			(uuid "bd55b085-c5af-4c53-897c-99f5ad68976f")
-		)
-		(pin "1"
-			(uuid "638c348c-5aa9-44f3-b577-71131d1e27c2")
+			(uuid "bc5b4864-72a5-4135-8d9f-768f24d0b8d3")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "RV2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 31.75 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0bd9f067-81bc-4882-99eb-b8c7cef3eb10")
-		(property "Reference" "#PWR05"
-			(at 31.75 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 35.56 102.616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f76c460b-5e51-49e3-893c-5f4118189eed")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR05")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -4646,7 +4470,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 71.12 31.75 0)
+		(at 71.12 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4654,7 +4478,7 @@
 		(dnp no)
 		(uuid "1392e2e9-63e0-4724-9573-9e5e1ed2a245")
 		(property "Reference" "#PWR012"
-			(at 71.12 35.56 0)
+			(at 71.12 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4663,7 +4487,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 71.12 27.94 0)
+			(at 71.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4671,7 +4495,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 31.75 0)
+			(at 71.12 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4680,7 +4504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 31.75 0)
+			(at 71.12 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4689,7 +4513,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 71.12 31.75 0)
+			(at 71.12 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4711,16 +4535,15 @@
 	)
 	(symbol
 		(lib_id "Device:Microphone")
-		(at 31.75 50.8 0)
+		(at 39.37 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "18a049a7-6d79-4556-8010-6dc68c23ba81")
 		(property "Reference" "P1"
-			(at 35.56 48.8314 0)
+			(at 42.164 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4729,7 +4552,7 @@
 			)
 		)
 		(property "Value" "piezo"
-			(at 35.56 51.3714 0)
+			(at 42.164 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4738,7 +4561,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 48.26 90)
+			(at 39.37 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4747,7 +4570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 48.26 90)
+			(at 39.37 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4579,7 @@
 			)
 		)
 		(property "Description" "Microphone"
-			(at 31.75 50.8 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4780,35 +4603,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 60.96 93.98 0)
+		(lib_id "Device:D")
+		(at 68.58 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bfc2999-fc8e-49a8-becf-1e28a3583b56")
-		(property "Reference" "R3"
-			(at 63.5 92.7099 0)
+		(uuid "217561bb-c536-44aa-bc06-494e17e87575")
+		(property "Reference" "D6"
+			(at 68.58 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 63.5 95.2499 0)
+		(property "Value" "D"
+			(at 68.58 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 59.182 93.98 90)
+			(at 68.58 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4638,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 93.98 0)
+			(at 68.58 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4825,8 +4646,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 60.96 93.98 0)
+		(property "Description" "Diode"
+			(at 68.58 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 68.58 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 68.58 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,15 +4674,101 @@
 			)
 		)
 		(pin "1"
-			(uuid "c69776c5-c634-47df-a192-7eb4c2443b50")
+			(uuid "b3002ccb-d6f3-4bcc-80a0-5ba7f314c300")
 		)
 		(pin "2"
-			(uuid "131409c4-b4dd-4cda-9caf-63a70c59a216")
+			(uuid "8f1af381-2ab2-4d6d-98e4-419755884d9b")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "R3")
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 68.58 63.5 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2809ef90-3b87-4141-82dc-cbbd4575fa9e")
+		(property "Reference" "D4"
+			(at 68.58 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 68.58 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f5491bc2-2b94-498c-975f-06c12ff3d084")
+		)
+		(pin "2"
+			(uuid "12ecc2ec-4217-4a05-b776-6ef8998e9ea7")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4851,7 +4776,7 @@
 	)
 	(symbol
 		(lib_id "Connector:DIN-5_180degree")
-		(at 87.63 29.21 180)
+		(at 87.63 24.13 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4860,7 +4785,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d568162-b5b9-4fe6-8902-38fdb9b32dce")
 		(property "Reference" "J1"
-			(at 87.6299 19.05 0)
+			(at 87.6299 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4868,7 +4793,7 @@
 			)
 		)
 		(property "Value" "midi out"
-			(at 87.6299 21.59 0)
+			(at 87.6299 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4876,7 +4801,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 29.21 0)
+			(at 87.63 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,7 +4810,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf"
-			(at 87.63 29.21 0)
+			(at 87.63 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4894,7 +4819,7 @@
 			)
 		)
 		(property "Description" "5-pin DIN connector (5-pin DIN-5 stereo)"
-			(at 87.63 29.21 0)
+			(at 87.63 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4928,7 +4853,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 60.96 50.8 0)
+		(at 72.39 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4937,7 +4862,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dbe1c15-3f4b-4c88-a37e-df34b56a1f11")
 		(property "Reference" "R1"
-			(at 63.5 49.5299 0)
+			(at 74.93 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4946,7 +4871,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 63.5 52.0699 0)
+			(at 74.93 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4955,7 +4880,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.182 50.8 90)
+			(at 70.612 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4964,7 +4889,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 50.8 0)
+			(at 72.39 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4973,7 +4898,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 60.96 50.8 0)
+			(at 72.39 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4997,33 +4922,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 62.23 85.09 0)
+		(lib_id "Device:R")
+		(at 72.39 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "305d0aa7-9553-4adf-b3e1-ca69b205700f")
-		(property "Reference" "D5"
-			(at 62.23 82.296 0)
+		(fields_autoplaced yes)
+		(uuid "2f934cc3-49c3-4aee-acee-acb3f570b021")
+		(property "Reference" "R3"
+			(at 74.93 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "D"
-			(at 62.23 81.28 0)
+		(property "Value" "10k"
+			(at 74.93 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 85.09 0)
+			(at 70.612 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5032,7 +4959,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 85.09 0)
+			(at 72.39 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5040,26 +4967,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
-			(at 62.23 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 62.23 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 62.23 85.09 0)
+		(property "Description" "Resistor"
+			(at 72.39 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5068,31 +4977,31 @@
 			)
 		)
 		(pin "1"
-			(uuid "44a6f707-b6e8-491e-a65e-8a4ec48fd98b")
+			(uuid "7eeb9d48-2aaa-4d34-b7a3-b9525fcded65")
 		)
 		(pin "2"
-			(uuid "3e6d4c26-3675-4bcd-a746-59a22503f922")
+			(uuid "6be359f9-8ce6-4974-b4f5-bce130e981b7")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 55.88 63.5 0)
+		(lib_id "power:GND")
+		(at 39.37 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "326dd6d3-d940-448a-af8c-0edc0672f40c")
-		(property "Reference" "#PWR04"
-			(at 55.88 67.31 0)
+		(uuid "3481ad54-f1a3-42c4-996c-6b55078cd7bf")
+		(property "Reference" "#PWR07"
+			(at 39.37 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5100,8 +5009,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 55.88 59.69 0)
+		(property "Value" "GND"
+			(at 43.18 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5109,7 +5018,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 63.5 0)
+			(at 39.37 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 63.5 0)
+			(at 39.37 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,93 +5035,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "38c48117-4733-4530-aeeb-35a637245f68")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 71.12 93.98 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39b3b175-fd89-4315-9fa5-0b9e2a78c690")
-		(property "Reference" "D6"
-			(at 73.406 93.98 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D"
-			(at 73.66 95.2499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 71.12 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 71.12 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 71.12 93.98 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5221,15 +5045,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "8b6ae254-8963-4e42-80b8-d084728db750")
-		)
-		(pin "2"
-			(uuid "396cb205-08b5-4dfc-9854-289fe80e16d6")
+			(uuid "b8799ecc-0488-446a-b2e3-05950bb1eb08")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D6")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5301,243 +5122,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 55.88 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "40ffed69-b4d9-490b-ae94-b9c0bfe417da")
-		(property "Reference" "#PWR06"
-			(at 55.88 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 55.88 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "367c0909-e123-4372-bf5f-ceca8ee38f41")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 49.53 115.57 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46fdd119-4501-4b60-b9b5-db4eda3c70ca")
-		(property "Reference" "RV4"
-			(at 52.07 114.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "trim"
-			(at 52.07 116.8399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 49.53 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7412d864-e2de-47be-84b7-aa76a7d3a79c")
-		)
-		(pin "3"
-			(uuid "56865fa9-b633-4dda-9a39-1f3f2e8835bb")
-		)
-		(pin "1"
-			(uuid "5a2b85c8-b857-41b5-a142-eeb52c6caeed")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "RV4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 71.12 72.39 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5c1a61cf-c49f-464f-b274-0a1429fc5d92")
-		(property "Reference" "D4"
-			(at 73.406 72.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D"
-			(at 73.66 73.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 71.12 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 71.12 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 71.12 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4485f1c5-aa65-45d8-9138-9b7f47e4deed")
-		)
-		(pin "2"
-			(uuid "6f69da6d-ed45-4be6-849a-fc276bc2cfa7")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Microphone")
-		(at 31.75 115.57 0)
+		(at 39.37 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "609984f9-00c8-4f12-8c3a-457f9e405bf8")
-		(property "Reference" "P4"
-			(at 35.56 113.6014 0)
+		(uuid "5d8788a0-c302-40e4-a95c-c9a91917bd94")
+		(property "Reference" "P3"
+			(at 42.164 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5546,7 +5140,7 @@
 			)
 		)
 		(property "Value" "piezo"
-			(at 35.56 116.1414 0)
+			(at 42.164 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5555,7 +5149,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 113.03 90)
+			(at 39.37 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5564,7 +5158,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 113.03 90)
+			(at 39.37 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5573,7 +5167,7 @@
 			)
 		)
 		(property "Description" "Microphone"
-			(at 31.75 115.57 0)
+			(at 39.37 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5582,15 +5176,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d9f5915b-ffcb-4c3d-80c1-beeeed3b04c9")
+			(uuid "0c39a84a-63c7-4321-bf1e-611b908d09e7")
 		)
 		(pin "1"
-			(uuid "38d5121d-1d72-42bb-b014-25f165624b5c")
+			(uuid "30681f87-27ae-4a97-9aa5-1ffc4bff38e1")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "P4")
+					(reference "P3")
 					(unit 1)
 				)
 			)
@@ -5598,7 +5192,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 49.53 50.8 180)
+		(at 54.61 53.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5607,7 +5201,7 @@
 		(fields_autoplaced yes)
 		(uuid "662f5d20-3f8f-4bd8-99de-b8f70e6b67de")
 		(property "Reference" "RV1"
-			(at 52.07 49.5299 0)
+			(at 57.15 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5616,7 +5210,7 @@
 			)
 		)
 		(property "Value" "trim"
-			(at 52.07 52.0699 0)
+			(at 57.15 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5625,7 +5219,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 50.8 0)
+			(at 54.61 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5634,7 +5228,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 50.8 0)
+			(at 54.61 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5643,7 +5237,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 49.53 50.8 0)
+			(at 54.61 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5735,90 +5329,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 49.53 93.98 180)
+		(lib_id "Device:Microphone")
+		(at 39.37 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "75479a66-2a7e-4618-a910-ae1c061a7a50")
-		(property "Reference" "RV3"
-			(at 52.07 92.7099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "trim"
-			(at 52.07 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 49.53 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bfa0f54c-7c1e-4524-9391-00dcd69a4be2")
-		)
-		(pin "3"
-			(uuid "5e44fd9b-1d8d-4b55-9eb6-e8983d602bae")
-		)
-		(pin "1"
-			(uuid "e9e965c9-de3f-4512-8556-5af6d9767012")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "RV3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 60.96 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "778e4c98-e2cd-4c73-9af8-312b5c5735e7")
-		(property "Reference" "R4"
-			(at 63.5 114.2999 0)
+		(uuid "826e5d8d-3489-48be-aa67-623f232048db")
+		(property "Reference" "P4"
+			(at 42.164 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5826,8 +5346,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 63.5 116.8399 0)
+		(property "Value" "piezo"
+			(at 42.164 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +5356,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.182 115.57 90)
+			(at 39.37 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5845,7 +5365,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 115.57 0)
+			(at 39.37 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5853,95 +5373,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 60.96 115.57 0)
+		(property "Description" "Microphone"
+			(at 39.37 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "f46a820d-3868-4223-8682-3111342a7ab8")
 		)
 		(pin "2"
-			(uuid "e52cb98e-605e-4350-a88f-08b06881cb41")
+			(uuid "73341215-1f36-420f-b57c-585b3afe260a")
+		)
+		(pin "1"
+			(uuid "1702176a-083f-44bc-8fd4-f61b57eed3b3")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 60.96 72.39 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80b33b7d-a0df-428d-9eaf-596f5ba6c1c3")
-		(property "Reference" "R2"
-			(at 63.5 71.1199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 63.5 73.6599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 59.182 72.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 60.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa288c3d-f1f2-4dae-9c08-6a05a29729db")
-		)
-		(pin "2"
-			(uuid "f0337c14-c42c-4cfa-9f01-9e7c2600757d")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "R2")
+					(reference "P4")
 					(unit 1)
 				)
 			)
@@ -6013,17 +5463,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Microphone")
-		(at 31.75 93.98 0)
+		(lib_id "Device:R")
+		(at 72.39 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8d7503de-82cf-44a8-8ee3-a919912bcecd")
-		(property "Reference" "P3"
-			(at 35.56 92.0114 0)
+		(uuid "86b41319-7107-489f-bf78-6d7f41e8ad7a")
+		(property "Reference" "R4"
+			(at 74.93 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,8 +5481,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "piezo"
-			(at 35.56 94.5514 0)
+		(property "Value" "10k"
+			(at 74.93 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6041,7 +5491,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 91.44 90)
+			(at 70.612 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6050,7 +5500,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 91.44 90)
+			(at 72.39 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6058,41 +5508,41 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Microphone"
-			(at 31.75 93.98 0)
+		(property "Description" "Resistor"
+			(at 72.39 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "3064dcf1-897a-4ee2-a6c7-0cb80276aff2")
 		)
 		(pin "1"
-			(uuid "aba66a7a-7b06-4ee7-b2ba-1f0e9fbfe3d0")
+			(uuid "8339b4de-784f-4ad5-b7cf-438ede18a115")
+		)
+		(pin "2"
+			(uuid "64cecf07-2bff-499f-b46f-6052718274e5")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "P3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 87.63 36.83 0)
+		(lib_id "power:+5V")
+		(at 72.39 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a21c5fba-042a-4093-88fb-c5cd46b8aef5")
-		(property "Reference" "#PWR011"
-			(at 87.63 43.18 0)
+		(uuid "898ebb68-6f97-497c-bd6c-a2caa7fa0204")
+		(property "Reference" "#PWR08"
+			(at 68.58 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6100,8 +5550,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 87.63 41.148 0)
+		(property "Value" "+5V"
+			(at 77.47 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6109,7 +5559,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 36.83 0)
+			(at 72.39 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,7 +5568,306 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 36.83 0)
+			(at 72.39 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 72.39 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95ea448f-b857-412e-bb92-fd7451eb8e51")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 54.61 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8de356ff-5965-4ed1-8e22-835deb22ebbb")
+		(property "Reference" "RV2"
+			(at 57.15 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "trim"
+			(at 57.15 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 54.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "04976e73-2e70-44f4-8421-c6ed0fd61bb5")
+		)
+		(pin "3"
+			(uuid "94c11e41-60f8-4dfa-b835-b484071b897c")
+		)
+		(pin "1"
+			(uuid "bfd9b4cf-46bf-43a4-8eb8-86641233abc0")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 64.77 111.76 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95e62aef-0af0-46ec-98c2-39f9fede14d0")
+		(property "Reference" "D7"
+			(at 67.056 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "D"
+			(at 67.31 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34a3476c-411d-4921-866b-f289860010ed")
+		)
+		(pin "2"
+			(uuid "06db26d6-4413-425b-9dcc-e5afcd28c575")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 54.61 111.76 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9827c791-5d76-48c0-9305-20df40dd93a7")
+		(property "Reference" "RV4"
+			(at 57.15 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "trim"
+			(at 57.15 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fea79e7b-d009-44a5-bc86-f5c9a8d2b60d")
+		)
+		(pin "3"
+			(uuid "231035d2-7598-4a72-b79a-f45c43e7b2d9")
+		)
+		(pin "1"
+			(uuid "940c4198-3730-47bb-b735-fb88b16e9425")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "RV4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 39.37 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ba72071-361a-4a60-be71-ca3d1dbc9db7")
+		(property "Reference" "#PWR02"
+			(at 39.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6127,7 +5876,72 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 36.83 0)
+			(at 39.37 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "343da070-9209-48de-96d1-39f5cb60cd54")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 87.63 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a21c5fba-042a-4093-88fb-c5cd46b8aef5")
+		(property "Reference" "#PWR011"
+			(at 87.63 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 87.63 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 87.63 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 87.63 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6149,7 +5963,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 31.75 90)
+		(at 76.2 26.67 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6157,7 +5971,7 @@
 		(dnp no)
 		(uuid "a98a1a3e-7dc0-4ce7-80de-cf80d90ab2f2")
 		(property "Reference" "R6"
-			(at 76.454 34.036 90)
+			(at 76.454 28.956 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6165,7 +5979,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 76.454 36.576 90)
+			(at 76.454 31.496 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6173,7 +5987,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 33.528 90)
+			(at 76.2 28.448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6182,7 +5996,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 31.75 0)
+			(at 76.2 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6191,7 +6005,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 76.2 31.75 0)
+			(at 76.2 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6215,33 +6029,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 78.74 0)
+		(lib_id "Device:R")
+		(at 72.39 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ab1b0254-8255-4c3b-ac2f-cdca1310b99c")
-		(property "Reference" "#PWR02"
-			(at 31.75 85.09 0)
+		(fields_autoplaced yes)
+		(uuid "a9e511ac-fb61-4f3c-8a66-f01adc0f58a1")
+		(property "Reference" "R2"
+			(at 74.93 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "GND"
-			(at 35.56 81.026 0)
+		(property "Value" "10k"
+			(at 74.93 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 78.74 0)
+			(at 70.612 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6249,8 +6065,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 31.75 78.74 0)
+		(property "Datasheet" "~"
+			(at 72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6258,8 +6074,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 78.74 0)
+		(property "Description" "Resistor"
+			(at 72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,12 +6084,80 @@
 			)
 		)
 		(pin "1"
-			(uuid "e38fe0ba-42fd-4284-ad74-a3f9931150d4")
+			(uuid "59a41c68-9c4a-48be-9ba0-2177eb33d477")
+		)
+		(pin "2"
+			(uuid "a4f06c6b-4425-49c1-a889-7b23a740d012")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR02")
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 39.37 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa6b8c9e-a2f5-4180-8d94-335fefd78072")
+		(property "Reference" "#PWR05"
+			(at 39.37 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0edcb143-6c25-4d3e-bf4f-a2fe9f991f80")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6615,8 +6499,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 72.39 63.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b21c1fa9-261c-450d-a29e-dd53921f7b1f")
+		(property "Reference" "#PWR04"
+			(at 68.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 77.47 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 72.39 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31688131-3f9a-46e8-9ff3-c969a330c729")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 95.25 35.56 0)
+		(at 95.25 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6625,7 +6574,7 @@
 		(fields_autoplaced yes)
 		(uuid "b323359e-a6fa-4b7f-ba0d-5aa78f980e54")
 		(property "Reference" "R5"
-			(at 97.79 34.2899 0)
+			(at 97.79 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6634,7 +6583,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 97.79 36.8299 0)
+			(at 97.79 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6643,7 +6592,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.472 35.56 90)
+			(at 93.472 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6652,7 +6601,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 35.56 0)
+			(at 95.25 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6661,7 +6610,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 95.25 35.56 0)
+			(at 95.25 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6686,7 +6635,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 55.88 41.91 0)
+		(at 72.39 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6694,7 +6643,7 @@
 		(dnp no)
 		(uuid "b755589d-47ee-4ea9-a0e9-2c59dcd217c0")
 		(property "Reference" "#PWR03"
-			(at 55.88 45.72 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6703,7 +6652,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 55.88 38.1 0)
+			(at 77.47 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6711,7 +6660,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 41.91 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6720,7 +6669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 41.91 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6729,7 +6678,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 41.91 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6750,16 +6699,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 71.12 115.57 270)
+		(lib_id "Device:Microphone")
+		(at 39.37 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b760f79d-1fde-4e0e-9424-5634afe7f0ff")
-		(property "Reference" "D8"
-			(at 73.406 115.57 90)
+		(uuid "b84a975f-6f24-4dc7-b24e-1097dfb5047e")
+		(property "Reference" "P2"
+			(at 42.164 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6767,18 +6716,17 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
-			(at 73.66 116.8399 90)
+		(property "Value" "piezo"
+			(at 42.164 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 115.57 0)
+			(at 39.37 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,7 +6735,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 115.57 0)
+			(at 39.37 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,43 +6743,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
-			(at 71.12 115.57 0)
+		(property "Description" "Microphone"
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Sim.Device" "D"
-			(at 71.12 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 71.12 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4c6cc4d9-592a-4375-9034-21e548c63cf8")
 		)
 		(pin "2"
-			(uuid "df5d19c9-c6c4-4bae-822f-09425b1c7fb8")
+			(uuid "5bd1c517-a6e0-4eff-8925-a7bdcd38b1a6")
+		)
+		(pin "1"
+			(uuid "a6621b36-0f72-4eee-a38c-23b830cd2c74")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D8")
+					(reference "P2")
 					(unit 1)
 				)
 			)
@@ -6839,7 +6769,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 31.75 57.15 0)
+		(at 39.37 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6847,7 +6777,7 @@
 		(dnp no)
 		(uuid "c29c31b6-7fe3-44e9-add6-5aeb0086444c")
 		(property "Reference" "#PWR01"
-			(at 31.75 63.5 0)
+			(at 39.37 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6856,7 +6786,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 59.436 0)
+			(at 43.18 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6864,7 +6794,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 57.15 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6873,7 +6803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 57.15 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6882,7 +6812,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 57.15 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6903,16 +6833,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 121.92 0)
+		(lib_id "power:+5V")
+		(at 72.39 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e0759147-a53d-429b-8cdf-dba6840e6267")
-		(property "Reference" "#PWR07"
-			(at 31.75 128.27 0)
+		(uuid "e196358a-900c-4ec4-9fd4-3a824fcd323f")
+		(property "Reference" "#PWR06"
+			(at 68.58 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6920,8 +6850,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 35.56 124.206 0)
+		(property "Value" "+5V"
+			(at 77.47 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6929,7 +6859,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 121.92 0)
+			(at 72.39 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6938,7 +6868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 121.92 0)
+			(at 72.39 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6946,8 +6876,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 121.92 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 72.39 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6956,47 +6886,47 @@
 			)
 		)
 		(pin "1"
-			(uuid "1c96eab0-d3d0-4158-a556-49e8577fa450")
+			(uuid "786fc216-080d-4537-95ed-009234bbf0d3")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR07")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:Microphone")
-		(at 31.75 72.39 0)
+		(lib_id "Device:R_Potentiometer")
+		(at 54.61 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e82ff510-f35f-463a-9fdf-01d7b1df9c6a")
-		(property "Reference" "P2"
-			(at 35.56 70.4214 0)
+		(uuid "e97d5fb7-a5b8-4d3a-b19f-608959e94552")
+		(property "Reference" "RV3"
+			(at 57.15 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "piezo"
-			(at 35.56 72.9614 0)
+		(property "Value" "trim"
+			(at 57.15 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 69.85 90)
+			(at 54.61 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7005,7 +6935,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 69.85 90)
+			(at 54.61 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7013,8 +6943,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Microphone"
-			(at 31.75 72.39 0)
+		(property "Description" "Potentiometer"
+			(at 54.61 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7023,15 +6953,18 @@
 			)
 		)
 		(pin "2"
-			(uuid "4a9cf076-df13-46eb-a6bd-71ee5aa075f4")
+			(uuid "4086869d-ec32-4291-93ba-f3160bdc0f9f")
+		)
+		(pin "3"
+			(uuid "af8c707b-5f6a-4a7a-ad22-6e059ab74230")
 		)
 		(pin "1"
-			(uuid "31f52e86-d2a0-4e1b-867a-e932d90e6baa")
+			(uuid "399a437e-0418-45f9-a1a5-65a838f2940f")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "P2")
+					(reference "RV3")
 					(unit 1)
 				)
 			)
@@ -7039,7 +6972,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 71.12 50.8 270)
+		(at 64.77 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7047,7 +6980,7 @@
 		(dnp no)
 		(uuid "ed28cca5-ec0b-455e-88e5-98dde876e90e")
 		(property "Reference" "D1"
-			(at 73.406 50.8 90)
+			(at 67.056 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7056,7 +6989,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 73.66 52.0699 90)
+			(at 67.31 54.6099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7066,7 +6999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 50.8 0)
+			(at 64.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7075,7 +7008,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 50.8 0)
+			(at 64.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7084,7 +7017,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 71.12 50.8 0)
+			(at 64.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7093,7 +7026,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 71.12 50.8 0)
+			(at 64.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7102,7 +7035,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 71.12 50.8 0)
+			(at 64.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7117,7 +7050,7 @@
 			(uuid "7a5dcf7c-7773-4e24-bd72-d86982dfddff")
 		)
 		(instances
-			(project ""
+			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
 					(reference "D1")
 					(unit 1)
@@ -7127,179 +7060,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 62.23 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed8d9ef8-8384-4fe9-8806-eed6c4783df9")
-		(property "Reference" "D7"
-			(at 62.23 103.886 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 62.23 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 62.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 62.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 62.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5df4a06a-7630-4250-bc23-04e931088d07")
-		)
-		(pin "2"
-			(uuid "a24ad67d-cc23-4e90-ba6c-3ac9e807b680")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 62.23 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ef958a63-5c17-4f4b-a023-4751014542ed")
-		(property "Reference" "D3"
-			(at 62.23 60.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 62.23 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "01b2c9cd-69b4-4326-b3c3-3a117e526d1a")
-		)
-		(pin "2"
-			(uuid "c6604137-ea27-4f81-9964-838d6feaac04")
-		)
-		(instances
-			(project "edrums-arduino-mega"
-				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 62.23 41.91 0)
+		(at 68.58 44.45 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7307,7 +7068,7 @@
 		(dnp no)
 		(uuid "f0ed08ba-c59e-42de-87b5-e88619b65942")
 		(property "Reference" "D2"
-			(at 62.23 39.116 0)
+			(at 68.58 47.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,7 +7076,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 62.23 38.1 0)
+			(at 68.58 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7324,7 +7085,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 41.91 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7333,7 +7094,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 41.91 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7342,7 +7103,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 62.23 41.91 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7351,7 +7112,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 62.23 41.91 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7360,7 +7121,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 62.23 41.91 0)
+			(at 68.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,33 +7145,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 55.88 106.68 0)
+		(lib_id "Device:D")
+		(at 64.77 91.44 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fc34be09-6583-4db9-b91c-041cb91047f7")
-		(property "Reference" "#PWR08"
-			(at 55.88 110.49 0)
+		(uuid "f376d0ee-a070-4a50-8423-5b7aa050a3e4")
+		(property "Reference" "D5"
+			(at 67.056 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "+5V"
-			(at 55.88 102.87 0)
+		(property "Value" "D"
+			(at 67.31 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 106.68 0)
+			(at 64.77 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7418,8 +7181,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 55.88 106.68 0)
+		(property "Datasheet" "~"
+			(at 64.77 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7427,8 +7190,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 106.68 0)
+		(property "Description" "Diode"
+			(at 64.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 64.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 64.77 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7437,12 +7218,103 @@
 			)
 		)
 		(pin "1"
-			(uuid "21c64d6e-a389-44ee-98e7-b982d0a52a6e")
+			(uuid "62672d44-ac3c-4d07-b1a4-1f59e743cdcc")
+		)
+		(pin "2"
+			(uuid "dfb5bd05-4b31-4e18-b6ef-173c5a344ad4")
 		)
 		(instances
 			(project "edrums-arduino-mega"
 				(path "/d4a6bf11-e526-4b92-882e-135330005474"
-					(reference "#PWR08")
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 64.77 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6ba9e2f-d048-4eec-ab07-667da5e27723")
+		(property "Reference" "D3"
+			(at 67.056 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "D"
+			(at 67.31 73.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "457bfd31-5ccf-4878-b1c8-42afbdd79106")
+		)
+		(pin "2"
+			(uuid "6b10115b-a073-4199-bb3b-cd982fac646e")
+		)
+		(instances
+			(project "edrums-arduino-mega"
+				(path "/d4a6bf11-e526-4b92-882e-135330005474"
+					(reference "D3")
 					(unit 1)
 				)
 			)
