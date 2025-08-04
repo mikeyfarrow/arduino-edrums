@@ -103,5 +103,5 @@ void checkNoteOffQueue()
 
 MIDIAddress toMIDIAddress()
 {
-  return (MIDIAddress){MIDI_Notes::C[2], Channel_1};
+  return (MIDIAddress){MIDI_Notes::C[2], Channel_10};
 }
